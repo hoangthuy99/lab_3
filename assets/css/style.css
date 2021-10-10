@@ -1,0 +1,115 @@
+.container {
+    height: 1500px;
+}
+
+.col-3 {
+    background-color: black;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.leats-page h1 {
+    font-size: 12px;
+    text-align: center;
+}
+
+h1 {
+    font-size: calc(0.375rem + 1.5vw);
+}
+
+.container-fluid {
+    background-color: deepskyblue;
+    color: #fff;
+}
+
+#set-color {
+    color: blanchedalmond;
+}
+
+.dong2 cot1 {
+    width: 300px;
+}
+
+.col-md-6.col-sm-12.dong2.cot1 {
+    height: 350px;
+}
+
+.col-md-6.col-sm-12.dong2.cot1 h1 {
+    height: 150px;
+    font-size: 22px;
+}
+
+i.fas.fa-sitemap {
+    font-size: 10px;
+    margin-left: 8%;
+    padding: 15px;
+}
+
+.col-md-6 col-sm-12 dong2 cot2 {
+    padding-top: 28px;
+    width: 43%;
+}
+
+.col-md-4 col-sm-12 dong4 {
+    padding: 25px;
+}
+
+.row-above h1 {
+    font-size: 22px;
+}
+
+.form-control {
+    width: 30%;
+    display: inline;
+}
+
+.row-below {
+    padding-top: 35px;
+}
+
+.footer {
+    padding-top: 20px;
+    background-color: black;
+    color: #fff;
+}
+
+.row {
+    padding: 20px;
+}
+
+.new-heading {
+    display: flex;
+    /* width: 30%; */
+}
+
+.new-heading span {
+    display: block;
+    border-top: 4px solid blue;
+    line-height: 55px;
+    width: 30px;
+}
+
+.dong4 {
+    /* box-shadow: 0 2px 5px 0px #999; */
+    transition: .3s linear;
+}
+
+.dong4:hover {
+    box-shadow: 0 2px 10px 0px #999;
+}
+
+.dong6 h1 {
+    font-size: 25px;
+}
+
+.dong4 h2 {
+    font-size: 20px;
+    padding-top: 20px;
+    border-color: beige;
+}
+
+.dong4 h3 {
+    font-size: 20px;
+    padding-top: 20px;
+    border-color: beige;
+}
